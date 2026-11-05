@@ -39,4 +39,4 @@ Wyniki te wynikają z przyjętej konwersji 5%, marży 2,10 zł i rabatu 1,40 zł
 Proponuję przez **4 tygodnie** przeprowadzić test A/B: w losowo wybranej połowie porównywalnych sklepów zmienić ekspozycję, a w drugiej pozostawić ją bez zmian.  
 Porównamy sprzedaż sosu na 100 paragonów z makaronem oraz marżę między grupami i zdecydujemy o dalszym wdrożeniu dopiero po teście.
 
-**Adres aplikacji Render:** do uzupełnienia po opublikowaniu (`https://...onrender.com`).
+**Adres aplikacji Render:** https://analiza-koszyka-0v8p.onrender.com
